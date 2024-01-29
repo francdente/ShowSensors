@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShowSensors</string>
+    <string name="error_no_sensor">No sensor found</string>
+</resources>
